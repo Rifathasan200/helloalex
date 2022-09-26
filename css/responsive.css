@@ -1,0 +1,1961 @@
+@media (min-width:320px) and (max-width:575px){
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #222222;
+    text-transform: capitalize;}
+
+p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 0px;
+}
+
+/* ------------ Common css end ------------- */   
+
+/* ------------ Nav part start ------------- */
+
+nav {
+	padding: 10px 0px 10px 0px !important;
+}
+
+nav .navbar-brand i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	margin-right: 2px;
+}
+
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0 ;
+}
+
+nav .nav-item .nav-link {
+	margin-left: 0px;
+	text-align: center;
+}
+
+nav button i{
+    margin-top: 3px;
+}
+
+.nav-scroll button i {
+	margin-top: 3px;
+	color: #fff;
+}
+
+/* ------------ Nav part end ------------- */
+
+/* ------------ Banner part start ------------- */
+
+#banner-part {
+	margin-top: 40px;
+	margin-bottom: 70px;
+}
+
+#banner-part::after {
+	display: none;
+}
+
+#banner-part .before-img {
+	display: none;
+}
+
+#banner-part .details .img img{
+	width: 45%;
+}
+
+#banner-part .details .img::after {
+	display: none;
+}
+
+#banner-part .details .img::before {
+    display: none;
+}
+
+#banner-part .details h5 {
+	font-size: 22px;
+	line-height: 22px;
+	margin-top: 20px;
+}
+
+#banner-part .details h1 {
+	font-size: 34px;
+	line-height: 45px;
+	margin-top: 15px !important;
+	width: auto;
+}
+
+#banner-part .details p {
+	margin-top: 20px !important;
+	width: auto;
+}
+
+#banner-part .details p::after {
+	display: none;
+}
+
+#banner-part .details p::before {
+	display: none;
+}
+
+#banner-part .details .button {
+	width: 170px;
+	height: 45px;
+	line-height: 45px !important;
+	font-size: 15px;
+	margin-top: 30px;
+}
+
+/* ------------ Banner part end ------------- */
+
+/* ------------ Brand part start ------------- */
+
+#brand-part {
+	margin-bottom: 50px;
+}
+
+#brand-part .before-img {
+	display: none;
+}
+
+#brand-part .brand-slider .img-one {
+	justify-content: center;
+}
+
+#brand-part .brand-slider .img-one img{
+    width: 80%;
+}
+
+#brand-part .brand-slider .img-two img{
+    width: 50%;
+}
+
+#brand-part .brand-slider .img-three img{
+    width: 70%;
+}
+
+#brand-part .brand-slider .img-four img{
+    width: 80%;
+    margin-top: 3px;
+}
+
+#brand-part .brand-slider .img-five img{
+    width: 80%;
+}
+
+#brand-part .brand-slider .img-six {
+	justify-content: center;
+}
+
+#brand-part .brand-slider .img-six img{
+    width: 50%;
+}
+
+#brand-part .brand-slider .img-seven img{
+    width: 70%;
+}
+
+/* ------------ Brand part end ------------- */
+
+/* ------------ About part start ------------- */
+
+#about-part {
+	margin-bottom: 50px;
+}
+
+
+#about-part .left-details {
+	padding: 0px 0;
+}
+
+#about-part .right-details {
+	padding: 0px 0;
+}
+
+#about-part .bg-box {
+	display: none;
+}
+
+/* ------------ About part end ------------- */
+
+/* ------------ Services part start ------------- */
+
+#service-part {
+	margin-bottom: 30px;
+}
+
+#service-part .title {
+	margin-bottom: 35px;
+}
+
+#service-part .title .shape-img {
+	margin-left: 140px;
+	margin-top: -35px;
+	width: 30%;
+    display: none;
+}
+
+#service-part .item-one {
+	padding: 40px 23px 40px 22px;
+	margin-bottom: 40px;
+}
+
+#service-part .item-one h6 {
+	margin-top: 20px;
+}
+
+#service-part .item-one .item-button {
+	margin-top: 20px;
+}
+
+#service-part .item-two {
+	padding: 40px 22px 40px 23px;
+	margin-bottom: 40px;
+}
+
+#service-part .item-two .item-button {
+	margin-top: 20px;
+}
+
+#service-part .item-three {
+	padding: 40px 22px 40px 23px;
+	margin-bottom: 40px;
+}
+
+#service-part .item-three h6 {
+	margin-top: 20px;
+}
+
+#service-part .item-three .item-button {
+	margin-top: 20px;
+}
+
+#service-part .bg-box {
+	display: none;
+}
+
+/* ------------ Services part end ------------- */
+
+/* ------------ Experience part start ------------- */
+
+#experience-part {
+	margin-bottom: 50px;
+}
+
+#experience-part .left-part {
+    text-align: center;
+}
+
+#experience-part .left-part .title {
+	text-align: center;
+}
+
+#experience-part .left-part .title {
+	margin-bottom: 20px;
+}
+
+#experience-part .left-part .title .shape-img {
+	margin-left: 0px;
+	margin-top: -15px;
+    display: none;
+}
+
+#experience-part .left-part .title .shape-img img {
+	width: 35%;
+	margin-left: -40px;
+}
+
+#experience-part .left-part .counter-part {
+	margin-top: 30px;
+}
+
+#experience-part .left-part .counter-part .left-counter {
+	width: auto;
+	padding: 25px 10px;
+    margin-left: 10px;
+}
+
+#experience-part .left-part p {
+	margin-bottom: 0px;
+}
+
+#experience-part .left-part .counter-part .right-counter {
+	width: auto;
+	padding: 25px 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+#experience-part .right-part {
+	margin-left: 0px;
+    margin-top: 40px;
+}
+
+#experience-part .right-part .item h6 {
+	font-size: 22px;
+    line-height: 22px;
+}
+
+#experience-part .right-part .item h5 {
+	font-size: 30px;
+	line-height: 30px;
+	margin-bottom: 35px;
+}
+
+#experience-part .right-part .item .info span {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+/* ------------ Experience part end ------------- */
+
+/* ------------ Testimonial part start ------------- */
+
+#testimonial-part {
+	margin-bottom: 140px;
+}
+
+#testimonial-part .title .shape-img {
+	display: none;
+}
+
+/* #testimonial-part .title .shape-img img {
+	margin-left: 60px;
+	width: 43%;
+} */
+
+#testimonial-part .title {
+	margin-bottom: 30px;
+}
+
+#testimonial-part .bg-box {
+	width: 100%;
+	height: 102%;
+	background: #F9F9F9;
+	position: absolute;
+	top: 70px;
+	left: 50%;
+	z-index: -1;
+	transform: translateX(-50%);
+}
+
+#testimonial-part .testi-slider .item {
+	padding: 0 10px;
+	margin-top: 25px;
+}
+
+#testimonial-part .testi-slider .item .row{
+    flex-direction: column-reverse;
+}
+
+#testimonial-part .testi-slider .item .details{
+    margin-top: 25px;
+}
+
+#testimonial-part .testi-slider .item .details .icon-img img{
+    width: 10%;
+}
+
+#testimonial-part .testi-slider .item .details p {
+	font-size: 16px;
+	line-height: 23px;
+	margin-left: 40px;
+}
+
+#testimonial-part .testi-slider .item .img img {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#testimonial-part .testi-slider .item .details .bio {
+	margin-left: 40px;
+	margin-top: 25px;
+}
+
+#testimonial-part .testi-slider .item .details .bio .name {
+	margin-left: 8px;
+}
+
+#testimonial-part .testi-slider .item .details .bio .img img{
+	width: 80%;
+}
+
+#testimonial-part .testi-slider .item .details .bio .name h6 {
+	font-size: 18px;
+	line-height: 18px;
+	margin-top: 7px;
+}
+
+#testimonial-part .testi-slider .item .details .bio .name span {
+	font-size: 14px;
+	line-height: 14px;
+}
+
+#testimonial-part .testi-slider .prev {
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	bottom: -70px;
+	left: 150px;
+}
+
+#testimonial-part .testi-slider .next {
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	bottom: -70px;
+	left: 200px;
+}
+
+/* ------------ Testimonial part end ------------- */
+
+/* ------------ Projects part start ------------- */
+
+#project-part {
+	margin-bottom: 60px;
+}
+
+#project-part .title {
+	margin-bottom: 30px;
+}
+
+#project-part .shape-img{
+    margin-top: -20px;
+    display: none;
+}
+
+#project-part .title .shape-img img {
+	margin-left: -63px;
+	margin-top: 10px;
+	width: 30%;
+}
+
+#project-part .item {
+	margin-top: 0px;
+}
+
+#project-part .item .img {
+	margin-top: 20px;
+}
+
+#project-part .item .img .overlay .details {
+	padding: 0px 0px 35px 15px;
+}
+
+#project-part .item .img .overlay .details h6 {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+#project-part .item .img .overlay .details span {
+	font-size: 16px;
+}
+
+/* ------------ Projects part end ------------- */
+
+.top-btn {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 15px;
+	right: 25px;
+}
+
+/* ------------ Footer part start ------------- */
+
+#footer-part {
+	margin-bottom: 50px;
+}
+
+#footer-part::after {
+	bottom: -51px;
+
+}
+
+#footer-part .details h5 {
+	font-size: 22px;
+	margin-bottom: 35px;
+}
+
+#footer-part .details p {
+	font-size: 16px;
+	line-height: 16px;
+	margin-bottom: 7px;
+}
+
+#footer-part .details h2 {
+	line-height: 45px;
+	margin-bottom: 10px;
+}
+
+#footer-part .details .social a {
+	margin: 30px 10px 0 10px;
+}
+
+#copy-right .text {
+	padding: 30px 0 34px 0;
+}
+
+#copy-right .text p {
+	line-height: 20px;
+}
+
+/* ------------ Footer part end ------------- */
+
+
+    /* ============================ */
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+
+    h2 {
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 45px;
+        color: #222222;
+        text-transform: capitalize;
+    }
+    
+    p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 0px;
+    }
+    
+    /* ------------ Common css end ------------- */   
+    
+    /* ------------ Nav part start ------------- */
+    
+    nav {
+        padding: 10px 0px 10px 0px !important;
+    }
+    
+    nav .navbar-brand i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 2px;
+    }
+    
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 ;
+    }
+    
+    nav .nav-item .nav-link {
+        margin-left: 0px;
+        text-align: center;
+    }
+    
+    nav button i{
+        margin-top: 3px;
+    }
+    
+    .nav-scroll button i {
+        margin-top: 3px;
+        color: #fff;
+    }
+    
+    /* ------------ Nav part end ------------- */
+    
+    /* ------------ Banner part start ------------- */
+    
+    #banner-part {
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    
+    #banner-part::after {
+        display: none;
+    }
+    
+    #banner-part .before-img {
+        display: none;
+    }
+    
+    #banner-part .details .img img{
+        width: 45%;
+    }
+    
+    #banner-part .details .img::after {
+        display: none;
+    }
+    
+    #banner-part .details .img::before {
+        display: none;
+    }
+    
+    #banner-part .details h1 {
+        font-size: 40px;
+        line-height: 52px;
+        margin-top: 15px !important;
+        width: auto;
+    }
+    
+    #banner-part .details p {
+        margin-top: 20px !important;
+        width: auto;
+    }
+
+    #banner-part .details p::after {
+        display: none;
+    }
+    
+    #banner-part .details p::before {
+        display: none;
+    }
+    
+    #banner-part .details .button {
+        width: 170px;
+        height: 45px;
+        line-height: 45px !important;
+        font-size: 15px;
+        margin-top: 30px;
+    }
+    
+    /* ------------ Banner part end ------------- */
+    
+    /* ------------ Brand part start ------------- */
+    
+    #brand-part {
+        margin-bottom: 50px;
+    }
+    
+    #brand-part .before-img {
+        display: none;
+    }
+    
+    #brand-part .brand-slider .img-one {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-one img{
+        width: 80%;
+    }
+    
+    #brand-part .brand-slider .img-two img{
+        width: 50%;
+    }
+    
+    #brand-part .brand-slider .img-three img{
+        width: 70%;
+    }
+    
+    #brand-part .brand-slider .img-four img{
+        width: 80%;
+        margin-top: 3px;
+    }
+    
+    #brand-part .brand-slider .img-five img{
+        width: 80%;
+    }
+    
+    #brand-part .brand-slider .img-six {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-six img{
+        width: 50%;
+    }
+    
+    #brand-part .brand-slider .img-seven img{
+        width: 70%;
+    }
+    
+    /* ------------ Brand part end ------------- */
+    
+    /* ------------ About part start ------------- */
+    
+    #about-part {
+        margin-bottom: 50px;
+    }
+    
+    
+    #about-part .left-details {
+        padding: 0px 0;
+    }
+    
+    #about-part .right-details {
+        padding: 0px 0;
+    }
+    
+    #about-part .bg-box {
+        display: none;
+    }
+    
+    /* ------------ About part end ------------- */
+    
+    /* ------------ Services part start ------------- */
+    
+    #service-part {
+        margin-bottom: 30px;
+    }
+    
+    #service-part .title {
+        margin-bottom: 35px;
+    }
+    
+    #service-part .title .shape-img {
+        margin-left: 140px;
+        margin-top: -35px;
+        width: 30%;
+        display: none;
+    }
+    
+    #service-part .item-one {
+        padding: 40px 23px 40px 22px;
+        margin-bottom: 40px;
+    }
+    
+    #service-part .item-one h6 {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-one .item-button {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-two {
+        padding: 40px 22px 40px 23px;
+        margin-bottom: 40px;
+    }
+    
+    #service-part .item-two .item-button {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-three {
+        padding: 40px 22px 40px 23px;
+        margin-bottom: 40px;
+    }
+    
+    #service-part .item-three h6 {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-three .item-button {
+        margin-top: 20px;
+    }
+    
+    #service-part .bg-box {
+        display: none;
+    }
+    
+    /* ------------ Services part end ------------- */
+    
+    /* ------------ Experience part start ------------- */
+    
+    #experience-part {
+        margin-bottom: 50px;
+    }
+    
+    #experience-part .left-part {
+        text-align: center;
+    }
+    
+    #experience-part .left-part .title {
+        text-align: center;
+    }
+    
+    #experience-part .left-part .title {
+        margin-bottom: 20px;
+    }
+    
+    #experience-part .left-part .title .shape-img {
+        margin-left: 0px;
+        margin-top: -15px;
+        display: none;
+    }
+    
+    #experience-part .left-part .title .shape-img img {
+        width: 35%;
+        margin-left: -40px;
+    }
+    
+    #experience-part .left-part .counter-part {
+        margin-top: 30px;
+    }
+    
+    #experience-part .left-part .counter-part .left-counter {
+        width: auto;
+        padding: 25px 10px;
+        margin-left: 10px;
+    }
+    
+    #experience-part .left-part p {
+        margin-bottom: 0px;
+    }
+    
+    #experience-part .left-part .counter-part .right-counter {
+        width: auto;
+        padding: 25px 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    
+    #experience-part .right-part {
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+    
+    #experience-part .right-part .item h6 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    
+    #experience-part .right-part .item h5 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 35px;
+    }
+    
+    #experience-part .right-part .item .info span {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    
+    /* ------------ Experience part end ------------- */
+    
+    /* ------------ Testimonial part start ------------- */
+    
+    #testimonial-part {
+        margin-bottom: 140px;
+    }
+    
+    #testimonial-part .title .shape-img {
+        display: none;
+    }
+    
+    /* #testimonial-part .title .shape-img img {
+        margin-left: 60px;
+        width: 43%;
+    } */
+    
+    #testimonial-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #testimonial-part .bg-box {
+        width: 100%;
+        height: 102%;
+        background: #F9F9F9;
+        position: absolute;
+        top: 70px;
+        left: 50%;
+        z-index: -1;
+        transform: translateX(-50%);
+    }
+    
+    #testimonial-part .testi-slider .item {
+        padding: 0 10px;
+        margin-top: 25px;
+    }
+    
+    #testimonial-part .testi-slider .item .row{
+        flex-direction: column-reverse;
+    }
+    
+    #testimonial-part .testi-slider .item .details{
+        margin-top: 25px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .icon-img img{
+        width: 10%;
+    }
+    
+    #testimonial-part .testi-slider .item .details p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-left: 40px;
+    }
+    
+    #testimonial-part .testi-slider .item .img img {
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio {
+        margin-left: 40px;
+        margin-top: 25px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name {
+        margin-left: 8px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .img img{
+        width: 80%;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name h6 {
+        font-size: 18px;
+        line-height: 18px;
+        margin-top: 7px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name span {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    
+    #testimonial-part .testi-slider .prev {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 16px;
+        bottom: -70px;
+        left: 220px;
+    }
+    
+    #testimonial-part .testi-slider .next {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 16px;
+        bottom: -70px;
+        left: 275px;
+    }
+    
+    /* ------------ Testimonial part end ------------- */
+    
+    /* ------------ Projects part start ------------- */
+    
+    #project-part {
+        margin-bottom: 60px;
+    }
+    
+    #project-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #project-part .shape-img{
+        margin-top: -20px;
+        display: none;
+    }
+    
+    #project-part .title .shape-img img {
+        margin-left: -63px;
+        margin-top: 10px;
+        width: 30%;
+    }
+    
+    #project-part .item {
+        margin-top: 0px;
+    }
+    
+    #project-part .item .img {
+        margin-top: 20px;
+    }
+    
+    #project-part .item .img .overlay .details {
+        padding: 0px 0px 13px 13px;
+    }
+    
+    #project-part .item .img .overlay .details h6 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    
+    #project-part .item .img .overlay .details span {
+        font-size: 14px;
+    }
+    
+    /* ------------ Projects part end ------------- */
+    
+    .top-btn {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 16px;
+        right: 30px;
+    }
+    
+    /* ------------ Footer part start ------------- */
+    
+    #footer-part {
+        margin-bottom: 50px;
+    }
+    
+    #footer-part::after {
+        bottom: -51px;
+    
+    }
+    
+    #footer-part .details h5 {
+        font-size: 22px;
+        margin-bottom: 35px;
+    }
+    
+    #footer-part .details p {
+        font-size: 16px;
+        line-height: 16px;
+        margin-bottom: 7px;
+    }
+    
+    #footer-part .details h2 {
+        line-height: 45px;
+        margin-bottom: 12px;
+    }
+    
+    #footer-part .details .social a {
+        margin: 30px 10px 0 10px;
+    }
+    
+    #copy-right .text {
+        padding: 30px 0 34px 0;
+    }
+    
+    /* ------------ Footer part end ------------- */
+    
+    
+        /* ============================ */
+}
+
+
+@media (min-width:768px) and (max-width:991.98px){
+
+    h2 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 53px;
+        color: #222222;
+        text-transform: capitalize;
+    }
+    
+    /* ------------ Common css end ------------- */   
+    
+    /* ------------ Nav part start ------------- */
+    
+    nav {
+        padding: 10px 0px 10px 0px !important;
+    }
+    
+    nav .navbar-brand i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 2px;
+    }
+    
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 ;
+    }
+    
+    nav .nav-item .nav-link {
+        margin-left: 0px;
+        text-align: center;
+    }
+    
+    nav button i{
+        margin-top: 3px;
+    }
+    
+    .nav-scroll button i {
+        margin-top: 3px;
+        color: #fff;
+    }
+    
+    /* ------------ Nav part end ------------- */
+    
+    /* ------------ Banner part start ------------- */
+    
+    #banner-part {
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    
+    #banner-part::after {
+        display: none;
+    }
+    
+    #banner-part .before-img {
+        display: none;
+    }
+    
+    #banner-part .details .img::after {
+        display: none;
+    }
+    
+    #banner-part .details .img::before {
+        display: none;
+    }
+    
+    #banner-part .details h1 {
+        font-size: 45px;
+        line-height: 55px;
+        margin-top: 15px !important;
+    }
+    
+    #banner-part .details p {
+        margin-top: 25px !important;
+    }
+
+    #banner-part .details p::after {
+        display: none;
+    }
+    
+    #banner-part .details p::before {
+        display: none;
+    }
+    
+    #banner-part .details .button {
+        width: 180px;
+        height: 48px;
+        line-height: 48px !important;
+        font-size: 16px;
+        margin-top: 34px;
+    }
+    
+    /* ------------ Banner part end ------------- */
+    
+    /* ------------ Brand part start ------------- */
+    
+    #brand-part {
+        margin-bottom: 70px;
+    }
+    
+    #brand-part .before-img {
+        display: none;
+    }
+    
+    #brand-part .brand-slider .img-one {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-one img{
+        width: 80%;
+    }
+    
+    #brand-part .brand-slider .img-two img{
+        width: 50%;
+    }
+    
+    #brand-part .brand-slider .img-three img{
+        width: 70%;
+    }
+    
+    #brand-part .brand-slider .img-four img{
+        width: 80%;
+        margin-top: 3px;
+    }
+
+    #brand-part .brand-slider .img-five {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-five img{
+        width: 80%;
+    }
+    
+    #brand-part .brand-slider .img-six {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-six img{
+        width: 50%;
+    }
+    
+    #brand-part .brand-slider .img-seven img{
+        width: 70%;
+    }
+    
+    /* ------------ Brand part end ------------- */
+    
+    /* ------------ About part start ------------- */
+    
+    #about-part {
+        margin-bottom: 50px;
+    }
+    
+    #about-part .right-details p {
+        text-align: justify;
+    }
+    
+    #about-part .left-details {
+        padding: 0px 0;
+    }
+    
+    #about-part .right-details {
+        padding: 0px 0;
+    }
+    
+    #about-part .bg-box {
+        display: none;
+    }
+    
+    /* ------------ About part end ------------- */
+    
+    /* ------------ Services part start ------------- */
+    
+    #service-part {
+        margin-bottom: 50px;
+    }
+    
+    #service-part .title {
+        margin-bottom: 35px;
+    }
+    
+    #service-part .title .shape-img {
+        margin-left: 140px;
+        margin-top: -35px;
+        width: 30%;
+        display: none;
+    }
+
+    
+    #service-part .item-one {
+        padding: 40px 23px 40px 22px;
+        margin-bottom: 30px;
+    }
+    
+    #service-part .item-one h6 {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-one .item-button {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-two {
+        padding: 30px 22px 38px 23px;
+        margin-bottom: 30px;
+    }
+
+    #service-part .item-two .img {
+        margin-top: -25px;
+    }
+
+    #service-part .item-two h6 {
+        margin-top: 9px;
+    }
+    
+    #service-part .item-two .item-button {
+        margin-top: 20px;
+    }
+
+    #service-part .res-md{
+        margin: 0 auto;
+    }
+    
+    #service-part .item-three {
+        padding: 30px 22px 38px 23px;
+        margin-bottom: 30px;
+    }
+
+    #service-part .item-three .img {
+        margin-top: -20px;
+    }
+    
+    #service-part .item-three h6 {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-three .item-button {
+        margin-top: 20px;
+    }
+    
+    #service-part .bg-box {
+        display: none;
+    }
+    
+    /* ------------ Services part end ------------- */
+    
+    /* ------------ Experience part start ------------- */
+    
+    #experience-part {
+        margin-bottom: 70px;
+    }
+    
+    #experience-part .left-part {
+        text-align: center;
+    }
+    
+    #experience-part .left-part .title {
+        text-align: center;
+    }
+    
+    #experience-part .left-part .title {
+        margin-bottom: 20px;
+    }
+    
+    #experience-part .left-part .title .shape-img {
+        margin-left: 0px;
+        margin-top: -15px;
+        display: none;
+    }
+    
+    #experience-part .left-part .title .shape-img img {
+        width: 35%;
+        margin-left: -40px;
+    }
+    
+    #experience-part .left-part .counter-part {
+        margin-top: 30px;
+    }
+    
+    #experience-part .left-part .counter-part .left-counter {
+        width: auto;
+        padding: 25px 40px;
+        margin-left: 10px;
+    }
+    
+    #experience-part .left-part p {
+        margin-bottom: 0px;
+    }
+    
+    #experience-part .left-part .counter-part .right-counter {
+        width: auto;
+        padding: 25px 56px;
+        margin-right: 10px;
+        margin-left: 25px;
+    }
+    
+    #experience-part .right-part {
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+    /* ------------ Experience part end ------------- */
+    
+    /* ------------ Testimonial part start ------------- */
+    
+    #testimonial-part {
+        margin-bottom: 155px;
+    }
+    
+    #testimonial-part .title .shape-img {
+        display: none;
+    }
+    
+    /* #testimonial-part .title .shape-img img {
+        margin-left: 60px;
+        width: 43%;
+    } */
+    
+    #testimonial-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #testimonial-part .bg-box {
+        width: 100%;
+        height: 102%;
+        background: #F9F9F9;
+        position: absolute;
+        top: 70px;
+        left: 50%;
+        z-index: -1;
+        transform: translateX(-50%);
+    }
+    
+    #testimonial-part .testi-slider .item {
+        padding: 0 10px;
+        margin-top: 45px;
+    }
+    
+    #testimonial-part .testi-slider .item .row{
+        flex-direction: column-reverse;
+    }
+    
+    #testimonial-part .testi-slider .item .details{
+        margin-top: 25px;
+    }
+    
+    #testimonial-part .testi-slider .item .details p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    
+    #testimonial-part .testi-slider .item .img img {
+        width: 60%;
+        margin: 0 auto;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name {
+        margin-left: 8px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .img img{
+        width: 80%;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name h6 {
+        font-size: 18px;
+        line-height: 18px;
+        margin-top: 7px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name span {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    
+    #testimonial-part .testi-slider .prev {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;
+        bottom: -70px;
+        left: 310px;
+    }
+    
+    #testimonial-part .testi-slider .next {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;
+        bottom: -70px;
+        left: 380px;
+    }
+    
+    /* ------------ Testimonial part end ------------- */
+    
+    /* ------------ Projects part start ------------- */
+    
+    #project-part {
+        margin-bottom: 80px;
+    }
+    
+    #project-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #project-part .shape-img{
+        margin-top: -20px;
+        display: none;
+    }
+    
+    #project-part .title .shape-img img {
+        margin-left: -63px;
+        margin-top: 10px;
+        width: 30%;
+    }
+    
+    #project-part .item {
+        margin-top: 0px;
+    }
+    
+    #project-part .item .img {
+        margin-top: 20px;
+    }
+    
+    #project-part .item .img .overlay .details {
+        padding: 0px 0px 13px 13px;
+    }
+    
+    #project-part .item .img .overlay .details h6 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    
+    #project-part .item .img .overlay .details span {
+        font-size: 14px;
+    }
+    
+    /* ------------ Projects part end ------------- */
+    
+    .top-btn {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 17px;
+        right: 35px;
+    }
+    
+    /* ------------ Footer part start ------------- */
+    
+    #footer-part {
+        margin-bottom: 50px;
+    }
+    
+    #footer-part::after {
+        bottom: -51px;
+    
+    }
+    
+    #footer-part .details .social a {
+        margin: 30px 10px 0 10px;
+    }
+    
+    #copy-right .text {
+        padding: 30px 0 34px 0;
+    }
+    
+    /* ------------ Footer part end ------------- */
+    
+    
+        /* ============================ */
+}
+
+
+@media (min-width:992px) and (max-width:1199.98px){
+
+    h2 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 53px;
+        color: #222222;
+        text-transform: capitalize;
+    }
+    
+    /* ------------ Common css end ------------- */   
+    
+    /* ------------ Nav part start ------------- */
+    
+    nav {
+        padding: 15px 0px 15px 0px !important;
+    }
+    
+    nav .navbar-brand i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 2px;
+    }
+    
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 ;
+    }
+    
+    nav .nav-item .nav-link {
+        margin-left: 20px;
+        text-align: center;
+    }
+    
+    nav button i{
+        margin-top: 3px;
+    }
+    
+    .nav-scroll button i {
+        margin-top: 3px;
+        color: #fff;
+    }
+    
+    /* ------------ Nav part end ------------- */
+    
+    /* ------------ Banner part start ------------- */
+    
+    #banner-part {
+        margin-top: 60px;
+        margin-bottom: 90px;
+    }
+
+    #banner-part::after {
+        width: 300px;
+        height: 300px;
+        bottom: -65px;
+        left: -190px;
+    }
+
+    #banner-part .details .img::before {
+        width: 30px;
+        height: 30px;
+        top: 70px;
+        right: 255px;
+    }
+    
+    #banner-part .details .img::after {
+        width: 55px;
+        height: 55px;
+        top: 60px;
+        left: 75px;
+    }
+    
+    #banner-part .details h1 {
+        font-size: 45px;
+        line-height: 55px;
+        margin-top: 15px !important;
+    }
+    
+    #banner-part .details p {
+        margin-top: 25px !important;
+    }
+
+    #banner-part .details p::after {
+        width: 38px;
+        height: 38px;
+        top: 45px;
+        left: -65px;
+    }
+    
+    #banner-part .details p::before {
+        width: 80px;
+        height: 80px;
+        top: -5px;
+        right: -130px;
+    }
+    
+    #banner-part .details .button {
+        width: 190px;
+
+    }
+
+    #banner-part .before-img {
+        top: -15px;
+        height: 200px;
+    }
+
+    #banner-part .before-img img{
+        height: 100%;
+    }
+    
+    /* ------------ Banner part end ------------- */
+    
+    /* ------------ Brand part start ------------- */
+    
+    #brand-part {
+        margin-bottom: 100px;
+    }
+
+    #brand-part .brand-slider .img-one {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-one img{
+        width: 80%;
+    }
+    
+    #brand-part .brand-slider .img-two img{
+        width: 50%;
+    }
+    
+    #brand-part .brand-slider .img-three img{
+        width: 70%;
+    }
+    
+    #brand-part .brand-slider .img-four img{
+        width: 80%;
+        margin-top: 3px;
+    }
+
+    #brand-part .brand-slider .img-five {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-five img{
+        width: 80%;
+    }
+    
+    #brand-part .brand-slider .img-six {
+        justify-content: center;
+    }
+    
+    #brand-part .brand-slider .img-six img{
+        width: 50%;
+    }
+    
+    #brand-part .brand-slider .img-seven img{
+        width: 70%;
+    }
+    
+    /* ------------ Brand part end ------------- */
+    
+    /* ------------ About part start ------------- */
+    
+    #about-part {
+        margin-bottom: 100px;
+    }
+    
+    #about-part .right-details p {
+        text-align: justify;
+    }
+    
+    #about-part .left-details {
+        padding: 60px 0;
+    }
+
+    #about-part .left-details h2{
+        margin-top: 30px;
+    }
+    
+    #about-part .right-details {
+        padding: 60px 0;
+    }
+    
+   
+    
+    /* ------------ About part end ------------- */
+    
+    /* ------------ Services part start ------------- */
+    
+    #service-part {
+        margin-bottom: 100px;
+    }
+    
+    #service-part .title .shape-img {
+        margin-left: 195px;
+        margin-top: -25px;
+        width: 18%;
+    }
+
+    #service-part .item-one {
+        padding: 40px 23px 40px 22px;
+        margin-bottom: 30px;
+    }
+    
+    #service-part .item-one h6 {
+        margin-top: 20px;
+        font-size: 22px;
+    }
+    
+    #service-part .item-one .item-button {
+        margin-top: 20px;
+    }
+    
+    #service-part .item-two {
+        padding: 30px 22px 38px 23px;
+        margin-bottom: 30px;
+    }
+
+    #service-part .item-two .img {
+        margin-top: -25px;
+    }
+
+    #service-part .item-two h6 {
+        margin-top: 9px;
+        font-size: 22px;
+    }
+    
+    #service-part .item-two .item-button {
+        margin-top: 20px;
+    }
+
+    #service-part .res-md{
+        margin: 0 auto;
+    }
+    
+    #service-part .item-three {
+        padding: 30px 22px 38px 23px;
+        margin-bottom: 30px;
+    }
+
+    #service-part .item-three .img {
+        margin-top: -20px;
+    }
+    
+    #service-part .item-three h6 {
+        margin-top: 22px;
+        font-size: 22px;
+    }
+    
+    #service-part .item-three .item-button {
+        margin-top: 20px;
+    }
+   
+    #service-part .bg-box {
+        width: 100%;
+        height: 250px;
+        bottom: -25px;
+        left: 0%;
+    }
+    
+    /* ------------ Services part end ------------- */
+    
+    /* ------------ Experience part start ------------- */
+    
+    #experience-part {
+        margin-bottom: 100px;
+    }
+
+    #experience-part .left-part .title .shape-img {
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    
+    #experience-part .left-part .title .shape-img img {
+        width: 53%;
+        margin-left: 107px;
+    }
+    
+    #experience-part .left-part .counter-part {
+        margin-top: 30px;
+    }
+
+    #experience-part .left-part .counter-part .left-counter {
+        padding: 25px 16px;
+    }
+    
+    #experience-part .left-part p {
+        margin-bottom: 0px;
+    }
+    
+    #experience-part .left-part .counter-part .right-counter {
+        padding: 25px 25px;
+        margin-left: 18px;
+    }
+
+    #experience-part .right-part {
+        margin-left: 50px;
+    }
+
+    #experience-part .right-part .item h6 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+
+    #experience-part .right-part .item h5 {
+        font-size: 34px;
+        line-height: 34px;
+    }
+
+    /* ------------ Experience part end ------------- */
+    
+    /* ------------ Testimonial part start ------------- */
+    
+    #testimonial-part {
+        margin-bottom: 185px;
+    }
+    
+    #testimonial-part .title .shape-img img {
+        margin-left: 80px;
+        width: 25%;
+    }
+    
+    #testimonial-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #testimonial-part .bg-box {
+        width: 100%;
+        height: 100%;
+        top: 115px;
+        left: 50%;
+    }
+    
+    #testimonial-part .testi-slider .item {
+        padding: 0 10px;
+        margin-top: 100px;
+    }
+    
+    #testimonial-part .testi-slider .item .details p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    
+    #testimonial-part .testi-slider .item .img img {
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name {
+        margin-left: 8px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .img img{
+        width: 80%;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name h6 {
+        font-size: 18px;
+        line-height: 18px;
+        margin-top: 7px;
+    }
+    
+    #testimonial-part .testi-slider .item .details .bio .name span {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    
+    #testimonial-part .testi-slider .prev {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 19px;
+        bottom: -90px;
+        left: 430px;
+    }
+    
+    #testimonial-part .testi-slider .next {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 19px;
+        bottom: -90px;
+        left: 500px;
+    }
+    
+    /* ------------ Testimonial part end ------------- */
+    
+    /* ------------ Projects part start ------------- */
+    
+    #project-part {
+        margin-bottom: 80px;
+    }
+    
+    #project-part .title {
+        margin-bottom: 30px;
+    }
+    
+    #project-part .shape-img{
+        margin-top: -20px;
+    }
+    
+    #project-part .title .shape-img img {
+        margin-left: -87px;
+        margin-top: 10px;
+        width: 18%;
+    }
+    
+    #project-part .item {
+        margin-top: 0px;
+    }
+    
+    #project-part .item .img {
+        margin-top: 20px;
+    }
+    
+    #project-part .item .img .overlay .details {
+        padding: 0px 0px 20px 20px;
+    }
+    
+    #project-part .item .img .overlay .details h6 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    
+    #project-part .item .img .overlay .details span {
+        font-size: 16px;
+    }
+    
+    /* ------------ Projects part end ------------- */
+    
+    .top-btn {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 17px;
+        right: 35px;
+    }
+    
+    /* ------------ Footer part start ------------- */
+    
+    #footer-part {
+        margin-bottom: 50px;
+    }
+    
+    #footer-part::after {
+        bottom: -51px;
+    
+    }
+    
+    #copy-right .text {
+        padding: 40px 0 44px 0;
+    }
+    
+    /* ------------ Footer part end ------------- */
+    
+    
+        /* ============================ */
+}
