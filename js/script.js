@@ -4,7 +4,7 @@ $(function(){
     $(".brand-slider").slick({
         slidesToShow:6,
         arrows:false,
-        // autoplay:true,
+        autoplay:true,
 
         responsive: [
             {
