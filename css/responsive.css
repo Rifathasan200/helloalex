@@ -1959,3 +1959,32 @@ nav button i{
     
         /* ============================ */
 }
+
+@media (min-width:1200px) and (max-width:1260px){
+
+    
+    /* ------------ Services part start ------------- */
+    
+    #service-part .bg-box {
+        width: 104%;
+        height: 250px;
+        bottom: -25px;
+        left: -2%;
+    }
+    
+    /* ------------ Services part end ------------- */
+   
+    /* ------------ Testimonial part start ------------- */
+ 
+    #testimonial-part .bg-box {
+        width: 102%;
+        height: 100%;
+        top: 115px;
+        left: 50%;
+    }
+    
+    
+    /* ------------ Testimonial part end ------------- */
+   
+        /* ============================ */
+}

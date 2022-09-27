@@ -738,10 +738,6 @@ nav .nav-item .nav-link{
     transition: .4s;
 }
 
-/* #project-part .item .img:hover .overlay{
-    height: 100%;
-} */
-
 #project-part .item .img .overlay .details{
     transform: rotate(180deg);
     padding:0px 0px 35px 35px;
